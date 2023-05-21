@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f4ran&label=Profile%20views&color=0e75b6&style=flat" alt="f4ran" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4ran" alt="f4ran" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4ran&column=3&row=3" alt="f4ran" /></a> </p>
 
 - 🔭 I’m currently working on Vitalize Projects [Qutline, Etl-Bot, DetailMaxx, Collegemate](vitalize.dev)
 
