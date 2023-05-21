@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Everything i need :)**
 
-- 💬 Ask me about **python3, flask, vue, nodejs, bash, mongodb ...**
+- 💬 Ask me about **python3, flask, vue, nuxt, nodejs, express, bash, mongodb ...**
 
 - 📫 How to reach me **f4ran@vitalize.dev**
 
