@@ -2,7 +2,7 @@
 <h1 align="center">I'm F4RAN</h1>
 <h3 align="center">A Full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f4ran&label=Profile%20views&color=0e75b6&style=flat" alt="f4ran" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=f4ran&label=Profile%20views&color=0e75b6&style=flat" alt="f4ran" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4ran&column=3&row=3" alt="f4ran" /></a> </p>
 
