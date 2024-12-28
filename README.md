@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4ran&column=3&row=2&theme=dracula" alt="f4ran" /></a> </p>
 
-- 🔭 I’m currently working on Vitalize Projects [Qutline, USI-bot, Etl-Bot, DetailMaxx, Collegemate](http://vitalize.dev)
+- 🔭 I’m currently working on Vitalize Projects [DealMeal, Qutline, USI-bot, Etl-Bot, DetailMaxx, Collegemate](http://vitalize.dev)
 
 - 🌱 I’m currently learning **Everything i need :)**
 
