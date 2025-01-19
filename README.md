@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Vitalize Projects [DealMeal, Qutline, USI-bot, Etl-Bot, DetailMaxx, Collegemate](http://vitalize.dev)
 
-- 🌱 I’m currently learning **Everything i need :)**
+- 🌱 I’m currently learning **Rust, CI/CD, React Native**
 
 - 💬 Ask me about **python3, flask, rust, rocket, fastapi, vue2/vue3, nuxt2/nuxt3, nodejs, express, docker, bash, mongodb, sql, automation bots, machine learning, ...**
 
