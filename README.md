@@ -17,8 +17,7 @@ Full-stack dev with 7+ years building **scalable, data-driven apps** and **autom
 
 - 💼 Senior Developer @ **Vitalize LLC** (2020–Present)  
 - 🎓 **M.Sc. Computer Science — IUST**  
-- ✉️ **f4ran@vitalize.dev** • 🇺🇸 US Citizen
-
+- ✉️ **f4ran@vitalize.dev**
 ---
 
 ### 🚀 Projects (Timeline)
