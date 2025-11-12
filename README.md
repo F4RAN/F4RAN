@@ -19,6 +19,7 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 - 💼 Senior Developer @ **Vitalize LLC** (2020–Present)  
 - 🎓 **M.Sc. Computer Science — IUST**  
 - ✉️ **f4ran@vitalize.dev**
+
 ---
 
 ### 🚀 Projects (Timeline)
@@ -66,8 +67,20 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 
 ### 🛠️ Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,react,reactnative,nest,vue,nuxt,mongodb,postgres,docker,nginx,linux,git,bash&perline=9" />
+  <img src="https://skillicons.dev/icons?i=rust,python,typescript,nodejs,react,nestjs,vue,nuxtjs,mongodb,postgresql,docker,nginx,linux,git,bash&perline=9" />
+  <br/>
+  <img src="https://img.shields.io/badge/React%20Native-Expo-informational?logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-mobile-blue?logo=react&logoColor=white" />
 </p>
+
+---
+
+### 🎖️ Licenses & Certifications
+- **Introduction to Retrieval Augmented Generation (RAG)** — *Duke University*, **Issued Mar 2025**  
+  Credential ID: **FOHAWNNR6F9W**
+
+- **Rust Fundamentals** — *Duke University*, **Issued Jun 2024**  
+  Credential ID: **DF3Z3DWHK7X3**
 
 ---
 
@@ -82,3 +95,4 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 <p align="center">
   <i>Engineering the bridge between performance, automation, and experience.</i>
 </p>
+
