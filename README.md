@@ -23,7 +23,7 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 ---
 
 ### 🚀 Projects (Timeline)
-- #### 🧾 Qutline **(2019–2022)**
+- #### 🧾 Qutline **(2019–2023)**
   Restaurant growth platform: menu, workflow, analytics, delivery.  
   _Nuxt 3 • TypeScript • Node.js • MongoDB • Docker_
 
