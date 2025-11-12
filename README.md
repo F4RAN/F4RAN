@@ -14,7 +14,7 @@
 ---
 
 ### ⚡ Snapshot
-Full-stack dev with 7+ years building **scalable, data-driven apps** and **automation systems**. I care about **performance**, **clean architecture**, and **great UX**.
+Full-stack dev with 10+ years building **scalable, data-driven apps** and **automation systems**. I care about **performance**, **clean architecture**, and **great UX**.
 
 - 💼 Senior Developer @ **Vitalize LLC** (2020–Present)  
 - 🎓 **M.Sc. Computer Science — IUST**  
