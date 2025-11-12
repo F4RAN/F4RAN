@@ -1,32 +1,84 @@
+<h1 align="center">👋 Hey, I'm <b>F4RAN</b></h1>
+<h3 align="center">Full-Stack Developer • Rust • Python • TypeScript • React Native (Expo)</h3>
 
-<h1 align="center">F4RAN</h1>
-<h3 align="center">Full-stack Software Developer</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=f4ran&label=Profile%20views&color=0e75b6&style=flat" alt="f4ran" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f4ran&column=3&row=2&theme=dracula" alt="f4ran" /></a> </p>
-
-- 🔭 I’m currently working on Vitalize Projects [DealMeal, Qutline, USI-bot, Etl-Bot, DetailMaxx, Collegemate](http://vitalize.dev)
-
-- 🌱 I’m currently learning **Rust, CI/CD, React Native**
-
-- 💬 Ask me about **python3, flask, rust, rocket, fastapi, vue2/vue3, nuxt2/nuxt3, nodejs, express, docker, bash, mongodb, sql, automation bots, machine learning, ...**
-
-- 📫 How to reach me **f4ran@vitalize.dev**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/f4ran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parsa-shariat-3a7067192" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/F4RAN">
+    <img src="https://komarev.com/ghpvc/?username=f4ran&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=f4ran">
+    <img src="https://github-profile-trophy.vercel.app/?username=f4ran&theme=dracula&margin-w=8&no-frame=true&column=4&row=1"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="70" height="70"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p align="left"><a href="https://www.buymeacoffee.com/f4ran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="f4ran" /></a></p><br><br>
-<hr>
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=f4ran&show_icons=true&locale=en&layout=compact" alt="f4ran" /></p>
+### ⚡ Snapshot
+Full-stack dev with 7+ years building **scalable, data-driven apps** and **automation systems**. I care about **performance**, **clean architecture**, and **great UX**.
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=f4ran&show_icons=true&locale=en" alt="f4ran" /></p>
+- 💼 Senior Developer @ **Vitalize LLC** (2020–Present)  
+- 🎓 **M.Sc. Computer Science — IUST**  
+- ✉️ **f4ran@vitalize.dev** • 🇺🇸 US Citizen
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f4ran&" alt="f4ran" /></p>
+---
+
+### 🚀 Projects (Timeline)
+- #### 🧾 Qutline (QRunch) **(2021–2022)**
+  Restaurant growth platform: menu, workflow, analytics, delivery.  
+  _Nuxt 3 • TypeScript • Node.js • MongoDB • Docker_
+
+- #### 🍽️ DealMeal **(2024–Present)**
+  Food-deal discovery app with AI ranking and fast, cached UX.  
+  _Rust (Rocket) • MongoDB • React Native • Docker Compose_
+
+- #### 👕 Sailor **(2025–Present)**
+  **Clothing-deal mobile app** with **React Native (Expo)** and a **NestJS** backend; personalization and AI-assisted scoring.  
+  _React Native (Expo) • NestJS • MongoDB_
+
+- #### 🎤 Rhymo **(2025–Present)**
+  Persian linguistic AI for phoneme/syllable (heja) analysis, with a companion **React Native (Expo)** app.  
+  _React Native (Expo) • Node.js • MongoDB_
+
+---
+
+### 🧪 Research & Publications
+- **An efficient network-based QoE assessment framework for multimedia networks using a machine learning approach**  
+  *PHS Panahi, AH Jalilvand, A Diyanat* — **IEEE Open Journal of the Communications Society**
+
+- **Enhancing quality of experience in telecommunication networks: A review of frameworks and machine learning algorithms**  
+  *PHS Panahi, AH Jalilvand, A Diyanat* — **arXiv:2404.16787**
+
+- **QoE-Selenium (2023)** — Objective QoE prediction via network-based ML (LR, RF, DNN, XGB); automated data collection + network simulation; reliable MOS estimation.
+
+---
+
+### 🧩 Open Source
+- **cuimp-rs** — Rust wrapper for curl-impersonate: browser-like HTTP requests. _(Rust, MIT)_  
+- **cuimp-ts** — Node.js wrapper for curl-impersonate to mimic real browser behavior. _(TypeScript)_  
+- **Clean-Code-Schema** — Opinionated structure for clean code in projects.  
+- **qutline-printer** — **Termux interface** bridging the Qutline web app to a **thermal printer**. _(Android/Termux, Python)_  
+- **qoe-selenium** — Source for the QoE research pipeline. _(Python)_  
+- **vue3-pagin8** — Simple, elegant Vue pagination. _(Vue, MIT)_
+
+**Contribution:**  
+- PRs/Issues in **CFScanner** → https://github.com/MortezaBashsiz/CFScanner
+
+---
+
+### 🛠️ Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,nodejs,react,reactnative,nest,vue,nuxt,mongodb,postgres,docker,nginx,linux,git,bash&perline=9" />
+</p>
+
+---
+
+### 📊 Minimal Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=f4ran&show_icons=true&theme=tokyonight" height="132"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4ran&layout=compact&theme=tokyonight" height="132"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Engineering the bridge between performance, automation, and experience.</i>
+</p>
