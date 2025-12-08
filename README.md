@@ -61,7 +61,7 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 - **vue3-pagin8** — Simple, elegant Vue pagination. _(Vue, MIT)_
 
 **Contribution:**  
-- PRs/Issues in **CFScanner** → https://github.com/MortezaBashsiz/CFScanner
+- **CFScanner** → https://github.com/MortezaBashsiz/CFScanner
 
 ---
 
