@@ -85,10 +85,7 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 ---
 
 ### 📊 Minimal Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f4ran&show_icons=true&theme=tokyonight" height="132"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f4ran&layout=compact&theme=tokyonight" height="132"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=F4RAN&theme=dark&border_radius=50&short_numbers=true)](https://git.io/streak-stats)
 
 
 ---
