@@ -60,8 +60,15 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 - **qoe-selenium** — Source for the QoE research pipeline. _(Python)_  
 - **vue3-pagin8** — Simple, elegant Vue pagination. _(Vue, MIT)_
 
-**Contribution:**  
-- **CFScanner** → https://github.com/MortezaBashsiz/CFScanner
+## 🧩 Open Source Contributions
+
+- **[uv (astral-sh/uv)](https://github.com/astral-sh/uv/pull/17020)**  
+  Added user-facing hint for misplaced `--verbose` flag in `uv tool run` and `uvx` commands.  
+  Implemented tests, addressed reviewer feedback, and successfully merged into `main`.
+
+- **[CFScanner (MortezaBashsiz/CFScanner)](https://github.com/MortezaBashsiz/CFScanner)**  
+  Contributed to Cloudflare IP-range scanner — enhanced detection accuracy and improved multi-threaded scanning reliability across Cloudflare edge ranges.
+
 
 ---
 
