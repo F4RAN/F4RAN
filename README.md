@@ -52,7 +52,8 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 
 ---
 
-### 🧩 Open Source
+## 🧩 Open Source 
+### Projects
 - **cuimp-rs** — Rust wrapper for curl-impersonate: browser-like HTTP requests. _(Rust, MIT)_  
 - **cuimp-ts** — Node.js wrapper for curl-impersonate to mimic real browser behavior. _(TypeScript)_  
 - **CC-Ex** — Opinionated structure for clean code in projects.  
@@ -60,11 +61,10 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 - **qoe-selenium** — Source for the QoE research pipeline. _(Python)_  
 - **vue3-pagin8** — Simple, elegant Vue pagination. _(Vue, MIT)_
 
-## 🧩 Open Source Contributions
+### Contributions
 
 - **[uv (astral-sh/uv)](https://github.com/astral-sh/uv/pull/17020)** – Contributor  
   Implemented a hint for misplaced `--verbose` flags in `uv tool run` / `uvx` (merged into `main`).
-
 - **[CFScanner (MortezaBashsiz/CFScanner)](https://github.com/MortezaBashsiz/CFScanner)** – Contributor  
   Added macOS support and related functionality for the Cloudflare IP scanner.
 
