@@ -62,13 +62,11 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 
 ## 🧩 Open Source Contributions
 
-- **[uv (astral-sh/uv)](https://github.com/astral-sh/uv/pull/17020)**  
-  Added user-facing hint for misplaced `--verbose` flag in `uv tool run` and `uvx` commands.  
-  Implemented tests, addressed reviewer feedback, and successfully merged into `main`.
+- **[uv (astral-sh/uv)](https://github.com/astral-sh/uv/pull/17020)** – Contributor  
+  Implemented a hint for misplaced `--verbose` flags in `uv tool run` / `uvx` (merged into `main`).
 
-- **[CFScanner (MortezaBashsiz/CFScanner)](https://github.com/MortezaBashsiz/CFScanner)**  
-  Contributed to Cloudflare IP-range scanner — enhanced detection accuracy and improved multi-threaded scanning reliability across Cloudflare edge ranges.
-
+- **[CFScanner (MortezaBashsiz/CFScanner)](https://github.com/MortezaBashsiz/CFScanner)** – Contributor  
+  Added macOS support and related functionality for the Cloudflare IP scanner.
 
 ---
 
