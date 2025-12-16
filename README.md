@@ -57,7 +57,7 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 - [**cuimp-ts**](https://github.com/f4ran/cuimp-ts) — Node.js wrapper for curl-impersonate to mimic real browser behavior. _(TypeScript)_  
 - [**cuimp-rs**](https://github.com/f4ran/cuimp-rs) — Rust wrapper for curl-impersonate: browser-like HTTP requests. _(Rust, MIT)_  
 - [**CC-Ex**](https://github.com/f4ran/CC-Ex) — Opinionated structure for clean code in projects.  
-- [**qutline-printer**](https://github.com/f4ran/qutline-printer)** — **Termux interface** bridging the Qutline web app to a **thermal printer**. _(Android/Termux, Python)_  
+- [**qutline-printer**](https://github.com/f4ran/qutline-printer) — **Termux interface** bridging the Qutline web app to a **thermal printer**. _(Android/Termux, Python)_  
 - [**qoe-selenium**](https://github.com/f4ran/qoe-selenium) — Source for the QoE research pipeline. _(Python)_  
 - [**vue3-pagin8**](https://github.com/f4ran/vue3-pagin8) — Simple, elegant Vue pagination. _(Vue, MIT)_
 
