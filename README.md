@@ -63,15 +63,17 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 
 ### Contributions
 
-- ![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social) – **[Prefect (PrefectHQ/prefect)](https://github.com/PrefectHQ/prefect/pull/19688)** – Contributor
-  Implemented event emission for Work Pool / Work Queue field updates (PR #19688).  
+- **[PrefectHQ/prefect](https://github.com/PrefectHQ/prefect/pull/19688)**  
+  ![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social)  
+  Contributor — Implemented event emission for Work Pool / Work Queue field updates (PR #19688).
 
-- ![Stars](https://img.shields.io/github/stars/astral-sh/uv?style=social) – **[uv (astral-sh/uv)](https://github.com/astral-sh/uv/pull/17020)** – Contributor 
-  Implemented a hint for misplaced `--verbose` flags in `uv tool run` / `uvx` (merged into `main`).  
+- **[astral-sh/uv](https://github.com/astral-sh/uv/pull/17020)**  
+  ![Stars](https://img.shields.io/github/stars/astral-sh/uv?style=social)  
+  Contributor — Implemented a hint for misplaced `--verbose` flags in `uv tool run` / `uvx` (merged into `main`).
 
-- ![Stars](https://img.shields.io/github/stars/MortezaBashsiz/CFScanner?style=social) – **[CFScanner (MortezaBashsiz/CFScanner)](https://github.com/MortezaBashsiz/CFScanner)** – Contributor
-  Added macOS support and related functionality for the Cloudflare IP scanner.  
-
+- **[MortezaBashsiz/CFScanner](https://github.com/MortezaBashsiz/CFScanner)**  
+  ![Stars](https://img.shields.io/github/stars/MortezaBashsiz/CFScanner?style=social)  
+  Contributor — Added macOS support and related functionality for the Cloudflare IP scanner.
 
 ---
 
