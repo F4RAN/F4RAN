@@ -65,7 +65,7 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 
 - **[PrefectHQ/prefect](https://github.com/PrefectHQ/prefect/pull/19688)**  
   ![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social)  
-  Contributor — Implemented event emission for Work Pool / Work Queue field updates (PR #19688).
+  Contributor — Implemented event emission for Work Pool / Work Queue field updates (merged into `main`).
 
 - **[astral-sh/uv](https://github.com/astral-sh/uv/pull/17020)**  
   ![Stars](https://img.shields.io/github/stars/astral-sh/uv?style=social)  
