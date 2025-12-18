@@ -6,9 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=f4ran&label=Profile%20Views&color=blueviolet&style=flat-square"/>
   </a>
   <br>
-  <a href="https://github-profile-trophy.vercel.app/?username=f4ran">
+  <!-- <a href="https://github-profile-trophy.vercel.app/?username=f4ran">
     <img src="https://github-profile-trophy.vercel.app/?username=f4ran&theme=dracula&margin-w=8&no-frame=true&column=4&row=1"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -93,11 +93,6 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 
 - **Rust Fundamentals** — *Duke University*, **Issued Jun 2024**  
   Credential ID: **DF3Z3DWHK7X3**
-
----
-
-### 📊 Minimal Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=f4ran)](https://git.io/streak-stats)
 
 ---
 
