@@ -97,7 +97,7 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 ---
 
 ### 📊 Minimal Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=f4ran&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=f4ran)](https://git.io/streak-stats)
 
 ---
 
