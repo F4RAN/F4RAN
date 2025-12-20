@@ -6,9 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=f4ran&label=Profile%20Views&color=blueviolet&style=flat-square"/>
   </a>
   <br>
-  <!-- <a href="https://github-profile-trophy.vercel.app/?username=f4ran">
+  <a href="https://github-profile-trophy.vercel.app/?username=f4ran">
     <img src="https://github-profile-trophy.vercel.app/?username=f4ran&theme=dracula&margin-w=8&no-frame=true&column=4&row=1"/>
-  </a> -->
+  </a>
 </p>
 
 ---
