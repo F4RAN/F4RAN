@@ -63,6 +63,10 @@ Full-stack dev with 10+ years building **scalable, data-driven apps** and **auto
 
 ### Contributions
 
+- **[tokio-rs/tokio #7773](https://github.com/tokio-rs/tokio/pull/7773)**  
+  ![Stars](https://img.shields.io/github/stars/tokio-rs/tokio?style=social)  
+  Contributor — Fixed a **memory leak in AsyncFd** by ensuring internal registration cleanup happens even when OS deregistration fails (e.g., closed FD before drop). Added a **custom allocator-based regression test** to reliably detect logical leaks without relying on RSS (merged into `master`).
+
 - **[PrefectHQ/prefect](https://github.com/PrefectHQ/prefect/pull/19688)**  
   ![Stars](https://img.shields.io/github/stars/PrefectHQ/prefect?style=social)  
   Contributor — Implemented event emission for Work Pool / Work Queue field updates (merged into `main`).
